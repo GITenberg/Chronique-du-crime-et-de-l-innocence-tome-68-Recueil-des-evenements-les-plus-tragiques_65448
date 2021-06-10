@@ -1,0 +1,34 @@
+_repo: Chronique-du-crime-et-de-l-innocence-tome-68-Recueil-des-evenements-les-plus-tragiques_65448
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Champagnac, J.-B.-J. (Jean-Baptiste-Joseph)
+    aliases:
+    - Mirval, J.-B.-J. de (Jean-Baptiste-Joseph)
+    - Chantel, J.-B.-J. (Jean-Baptiste-Joseph)
+    - Chantal, J.-B.-J. de (Jean-Baptiste-Joseph)
+    - Champagnac, Jean-Baptiste-Joseph
+    - Champagnac, Jean Baptiste Joseph
+    birthdate: 1796
+    deathdate: 1858
+    gutenberg_agent_id: '43900'
+    url: http://www.gutenberg.org/2009/agents/43900
+    wikipedia: http://fr.wikipedia.org/wiki/Jean-Baptiste-Joseph_Champagnac
+description: ''
+gutenberg_issued: '2021-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65448'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- France'
+- !lcc 'HV'
+- !lcsh 'Crime -- France'
+- GITenberg
+title: 'Chronique du crime et de l''innocence, tome 6/8
+
+  Recueil des événements les plus tragiques;...'
+url: http://www.gutenberg.org/ebooks/65448
